@@ -1,0 +1,6 @@
+Digital signals:
+Digital signals are signals that represent information using a finite set of discrete values. These values are typically represented by two binary digits 0 and 1 .Digital signals are transmitted using a variety of methods, including electrical signals, light, and radio waves
+
+
+Analog signals:
+Analog signals are signals that represent information using a continuous range of values.Analog signals are created naturally, such as sound waves and light waves.the analog signals are similar to  the digital signals as Analog signals are transmitted using a variety of methods, including electrical signals and  light.
